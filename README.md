@@ -1,2 +1,2 @@
 # osu-mania-beatmaps
-A load of osu beatmaps that I found
+A some osu beatmaps that I found
